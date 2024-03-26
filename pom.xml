@@ -19,7 +19,20 @@
             <artifactId>junit</artifactId>
             <version>4.8.2</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.kohsuke/github-api -->
+        <dependency>
+            <groupId>org.kohsuke</groupId>
+            <artifactId>github-api</artifactId>
+            <version>1.318</version>
+        </dependency>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.8.3</version>
+            <!-- https://mvnrepository.com/artifact/e-iceblue/spire.xls.free -->
 
+
+        </dependency>
     </dependencies>
 
     <build>
